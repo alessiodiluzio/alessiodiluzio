@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alessiodiluzio https://alessiodiluzio.github.io/
-- 👀 I’m interested in Machine Learning Algorithms both from a mathematical and implementation point of view.
+- 👀 I’m interested in Computer Engineering, Software Design and Implementation
 - 🌱 I’m currently working for a company in the military industry doing robust design and programming.
 - 📫 How to reach me https://www.linkedin.com/in/alessio-di-luzio94/, alessio.diluzio94@gmail.com
